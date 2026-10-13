@@ -24,9 +24,13 @@ c. Considerando su público, ¿cree que es recomendable agregar métricas financ
 2. La gerencia comercial le pide visualizar como las ventas han evolucionado a través del tiempo.
 
 a. Cree un gráfico de líneas que muestre mes a mes la evolución de las ventas a nivel general. Analice la tendencia de las ventas, ¿está al alza o a la baja?
+[Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/manuel.cabezas/viz/desafio-analizando-ventas/2a)
 
+![Descripción de la imagen](2a.png)
 b. Cree un gráfico de barras por año, en donde el color sea la región, ¿la tendencia de las ventas se debe a alguna región en particular? Comente.
+[Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/manuel.cabezas/viz/desafio-analizando-ventas/2b)
 
+![Descripción de la imagen](2b.png)
 3. La gerencia comercial está pensando en cerrar tiendas en ciertos estados, para ello, quiere ver cuáles son los estados que más aportan a las ventas.
 
 a. Genere un gráfico de mapa en donde tanto el texto como el color indiquen el nivel de ventas.
