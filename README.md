@@ -13,10 +13,13 @@ La gerencia comercial de una gran empresa de Retail de USA le pide a usted, como
 1. Considerando la situación expuesta arriba y revisando el Dataset:
 
 a. ¿Cuál es su público objetivo?
+**Es un público directivo, orientado a la toma de decisiones, que necesita comprender rápidamente los resultados de ventas de los últimos 4 años.**  
 
 b. ¿Cuál es la métrica o métricas que más le interesan al público objetivo?
+**La métrica principal es Sales (Ventas), ya que el dataset Sales_Retail.csv contiene el campo Sales y el foco del desafío es analizar la evolución de las ventas.**  
 
 c. Considerando su público, ¿cree que es recomendable agregar métricas financieras y lenguaje técnico o debiese ser lo más sencillo posible?
+**Considerando que el público es directivo, con perfiles comerciales y financieros, pero no necesariamente técnicos en visualización de datos, debe priorizarse lo más sencillo y claro posible.**  
 
 2. La gerencia comercial le pide visualizar como las ventas han evolucionado a través del tiempo.
 
